@@ -16,4 +16,3 @@ Tools & Technologies
     TensorFlow
     Keras
 
-Feel free to explore the code, and any feedback or contributions are welcome!
